@@ -1,1 +1,13 @@
 /* styles go here */
+.lable-style {
+  margin-bottom: 10px;
+}
+
+.bigger-margin {
+  margin-bottom: 0;
+}
+
+.block {
+  margin-bottom: 20px;
+
+}
