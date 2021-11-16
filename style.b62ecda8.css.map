@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,aACE,kBACF,CAEA,eACE,eACF,CAEA,OACE,kBAEF","file":"style.b62ecda8.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.lable-style {\n  margin-bottom: 10px;\n}\n\n.bigger-margin {\n  margin-bottom: 0;\n}\n\n.block {\n  margin-bottom: 20px;\n\n}\n"]}
